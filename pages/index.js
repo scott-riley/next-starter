@@ -8,7 +8,11 @@ export default () => (
     <Head>
       <title>Smash The Patriarchy</title>
     </Head>
-    <div>Smash the patriarchy</div>
+    <main>
+      <h1>
+        Smash the patriarchy
+      </h1>
+    </main>
     <GlobalStyles />
   </Fragment>
 )
