@@ -4,7 +4,7 @@
     "es6": true,
     "commonjs": true
   },
-  "extends": "eslint:airbnb",
+  "extends": "airbnb",
   "parserOptions": {
     "ecmaVersion": 9,
     "ecmaFeatures": {
